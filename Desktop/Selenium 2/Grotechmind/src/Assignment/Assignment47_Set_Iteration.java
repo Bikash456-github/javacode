@@ -10,6 +10,7 @@ public class Assignment47_Set_Iteration {
 		s1.add(123);
 		s1.add('c');
 		s1.add(null);
+		
 		Iterator i_s1=s1.iterator();
 		while(i_s1.hasNext())
 		{

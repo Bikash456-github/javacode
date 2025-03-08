@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="TestNg.Assignment51_Annotations_Method_Two_Test">
+      <class name="project1a.Testcase1">
         <methods>
-          <include name="bMethod"/>
+          <include name="login_to_Amazon"/>
         </methods>
-      </class> <!-- TestNg.Assignment51_Annotations_Method_Two_Test -->
+      </class> <!-- project1a.Testcase1 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

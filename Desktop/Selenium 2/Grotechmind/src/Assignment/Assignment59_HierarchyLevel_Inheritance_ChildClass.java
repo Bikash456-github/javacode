@@ -1,7 +1,7 @@
 package Assignment;
 
 
-public class Assignment59_HierarchyLevel_Inheritance_ChildClass extends Assignment59_HierarchyLevel_Inheritance_ParentClass
+public class Assignment59_HierarchyLevel_Inheritance_ChildClass 
 {
 	public static void static_method1_ChildClass()
 	{
@@ -14,13 +14,13 @@ public class Assignment59_HierarchyLevel_Inheritance_ChildClass extends Assignme
 	}
 	public static void main(String[] args) {
 		
-		
+		/*
 		static_method1_ParentClass();
 		static_method1_ChildClass();
 		Assignment59_HierarchyLevel_Inheritance_ChildClass obj1=new Assignment59_HierarchyLevel_Inheritance_ChildClass();
 	obj1.static_method1_ParentClass();
 	obj1.static_method1_ChildClass();
-
+*/
 	}}
 	
-}
+

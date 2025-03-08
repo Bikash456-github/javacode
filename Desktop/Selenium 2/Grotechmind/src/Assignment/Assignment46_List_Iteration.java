@@ -29,7 +29,7 @@ public class Assignment46_List_Iteration
 		System.out.println(i2_l1.next());
 	}
 		
-	while(i2_l1.hasprevious())	
+	while(i2_l1.hasPrevious())	
 	{
 		System.out.println(i2_l1.previous());
 	}

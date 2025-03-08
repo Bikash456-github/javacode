@@ -3,6 +3,7 @@ package Assignment;
 public class Assignment65_Abstract_Class {
 abstract class AbsClass
 {
+	/*
 	abstract void method1();
 	void method2()
 	{
@@ -24,5 +25,7 @@ obj.method1();
 void method1()
 {
 	System.out.println("in this method - Abstract method ovveriden in sub clas ie in main method");
+}
+*/
 }
 }

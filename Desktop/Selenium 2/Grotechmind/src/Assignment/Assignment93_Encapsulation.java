@@ -6,12 +6,10 @@ public class Assignment93_Encapsulation
 	private String name ="Dhungana";
 	
 	public int getOTP()
+	
 	{
-		return OTP;	
+		return  getOTP();
 	}
-	
-		
-	
 	
 	public void setOTP(int OTP)
 	{

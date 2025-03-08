@@ -1,16 +1,9 @@
 package selenium1;
 
-import java.util.Iterator;
-import java.util.Set;
-
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.interactions.Action;
-import org.openqa.selenium.interactions.Actions;
-import org.openqa.selenium.support.ui.Select;
-import org.openqa.selenium.WebElement;
 public class Amazonbooks {
 
 	public static void main(String[] args) throws InterruptedException {
@@ -19,9 +12,11 @@ public class Amazonbooks {
 		driver.get("https://www.flipkart.com/");
 		driver.manage().window().maximize();
 		driver.manage().deleteAllCookies();
+		//sample x path By.xpath("(//i[@class=\"icp-radio\"])[1]"));
 		
 		//WebElement e1=driver.findElement(By.xpath("//span[@class='_1XjE3T']"));
-		//e1.click();
+		WebElement e1=driver.findElement(By.xpath("//span[@class='_1XjE3T'][2]"));
+		e1.click();
 		
 		
 		

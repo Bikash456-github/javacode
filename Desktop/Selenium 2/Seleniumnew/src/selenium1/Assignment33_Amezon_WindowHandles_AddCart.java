@@ -38,6 +38,8 @@ public class Assignment33_Amezon_WindowHandles_AddCart {
 		Iterator<String> i1= s1.iterator();
 		String parentid =i1.next();
 		String childid=i1.next();
+		System.out.println(parentid);
+		System.out.println(childid);
 		WebElement e4=driver.findElement(By.id("atcBtn_btn_1"));
 		e4.click();
 		

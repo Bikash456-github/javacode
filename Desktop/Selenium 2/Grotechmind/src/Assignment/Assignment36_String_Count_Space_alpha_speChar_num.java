@@ -3,12 +3,6 @@ package Assignment;
 public class Assignment36_String_Count_Space_alpha_speChar_num {
 // in given string find how many are alpha how many special n numeric and space are
 	public static void main(String[] args) {
-		
-		
-		
-		
-		
-		
 		String str="my home #1830 ";
 		int cnt_alphabets=0;
 		int cnt_whtSpaces=0;

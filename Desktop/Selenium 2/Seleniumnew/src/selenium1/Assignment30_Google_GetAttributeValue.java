@@ -10,7 +10,7 @@ public class Assignment30_Google_GetAttributeValue {
 driver.get("https://www.google.com/");
 	driver.manage().window().maximize();
 	driver.manage().deleteAllCookies();
-	
+	//moving control to child window
 	List<WebElement>li=driver.findElements(By.tagName("a"));
 	System.out.println(li.size());
 	for (int i=0;i<li.size();i++) {

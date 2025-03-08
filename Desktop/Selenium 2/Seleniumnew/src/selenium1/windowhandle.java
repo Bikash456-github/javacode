@@ -12,7 +12,7 @@ public class windowhandle {
 		System.out.println(title);
 		System.out.println(driver.getWindowHandle());
 		System.out.println(driver.getWindowHandles());
-		driver.quit();
+		//driver.quit();
 		
 		
 		

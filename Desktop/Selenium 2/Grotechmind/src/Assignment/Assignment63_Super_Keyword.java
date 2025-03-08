@@ -1,29 +1,23 @@
 package Assignment;
 
-class Parent_Class
+class Google
 {
-	void Parent_Method()
+	void login()
 	{
-		System.out.println();
-	}
-	void Parent_Method(int a)
-	{
-System.out.println();
+	System.out.println("login with mobile");
 	}
 }
-public class Assignment63_Super_Keyword
+public class Assignment63_Super_Keyword extends Google
 {
-void Parent_Method(int a)
-{
-	System.out.println();
-	super.Parent_Method(40);
-}
-public static void main(String[] args) {
-	Assignment63_Super_Keyword	obj=new Assignment63_Super_Keyword();
-	obj.Parent_Method();
-	obj.Parent_Method(40);
+	void login ()
+	{
 	
+	System.out.println("login with email");
+	super.login();
+	}
 	
+	public static void main(String[] args) {
+		Assignment63_Super_Keyword a1=new Assignment63_Super_Keyword();
+		a1.login();
+	}
 }
-}
-

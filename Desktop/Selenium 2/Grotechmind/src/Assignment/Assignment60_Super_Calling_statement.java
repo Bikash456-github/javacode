@@ -26,8 +26,7 @@ public class Assignment60_Super_Calling_statement extends Class_Parent
 }
 public static void main(String[] args) {
 	new Assignment60_Super_Calling_statement();
-	new Assignment60_Super_Calling_statement("B"
-			+ "ikash");
+	new Assignment60_Super_Calling_statement("B"+ "ikash");
 }
 }
 

@@ -1,13 +1,9 @@
 package selenium1;
 import java.util.Iterator;
-import java.util.Iterator;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
-import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.WebElement;
-import java.util.Iterator;
 import java.util.Set;
 		
 		public class Assignment21shoescart {
@@ -29,6 +25,8 @@ import java.util.Set;
 		String parentid =i1.next();
 		String childid=i1.next();
 		driver.switchTo().window(childid);
+		System.out.println(parentid);
+		System.out.println(childid);
 		WebElement e3=driver.findElement(By.id("add-to-cart-button"));
 		e3.click();
 		
