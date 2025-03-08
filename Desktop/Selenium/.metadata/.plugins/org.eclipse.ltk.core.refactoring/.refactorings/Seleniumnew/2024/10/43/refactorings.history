@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Assignment21_Amezon_AutoSuggestion2.java&apos; to &apos;FirstMavenproject/src/main/java/org.FirstMavenproject&apos;&#x0A;- Original project: &apos;Seleniumnew&apos;&#x0A;- Destination element: &apos;FirstMavenproject/src/main/java/org.FirstMavenproject&apos;&#x0A;- Original element: &apos;selenium1.Assignment21_Amezon_AutoSuggestion2.java&apos;" description="Copy compilation unit" destination="=FirstMavenproject/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;org.FirstMavenproject" element1="/src&lt;selenium1{Assignment21_Amezon_AutoSuggestion2.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1729969247834" units="1" version="1.0"/>
+</session>

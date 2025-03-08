@@ -1,0 +1,4 @@
+#Sat Nov 02 14:46:41 PDT 2024
+__DEFAULT__=false
+expression=Invalid module name\: '1' is not a Java identifier
+org.eclipse.help.ui.localSearch.master=true

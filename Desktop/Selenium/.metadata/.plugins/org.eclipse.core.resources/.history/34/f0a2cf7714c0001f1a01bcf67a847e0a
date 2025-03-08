@@ -1,0 +1,20 @@
+package project1a;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.Keys;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class lunchquit extends Testcase1 {
+
+	
+Testcase1 m1=new Testcase1();	
+WebDriver driver;{   
+driver=new ChromeDriver();
+driver.get("https://www.Amazon.in");
+driver.manage().window().maximize();
+WebElement search=	driver.findElement(By.id("twotabsearchtextbox"));
+search.sendKeys("shoes"+Keys.ENTER);
+}
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;asssignment67_crossbrowsertesting&apos; to &apos;FirstMavenproject/src/test/java&apos;&#x0A;- Original project: &apos;crossbrowsertest&apos;&#x0A;- Destination element: &apos;FirstMavenproject/src/test/java&apos;&#x0A;- Original element: &apos;crossbrowsertest/src/asssignment67_crossbrowsertesting&apos;" description="Copy package" destination="=FirstMavenproject/src\/test\/java=/test=/true=/=/optional=/true=/=/maven.pomderived=/true=/" element1="/src&lt;asssignment67_crossbrowsertesting" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1731211993019" version="1.0"/>
+</session>

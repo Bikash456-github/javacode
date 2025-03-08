@@ -1,0 +1,6 @@
+Crossbrowsertesting.outdir=test-output
+FirstMavenproject.outdir=test-output
+eclipse.preferences.version=1
+practiceonly.outdir=test-output
+practiceonly.watchResultDirectory=/Users/bikashdhungana/Downloads/apache-maven-3.9.8/testng-results.xml
+practiceonly.watchResults=true

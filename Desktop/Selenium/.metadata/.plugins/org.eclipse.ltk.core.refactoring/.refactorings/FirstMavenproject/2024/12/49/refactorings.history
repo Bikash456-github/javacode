@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Iframe_Amezon_AutoSuggestion2.java&apos; to &apos;Seleniumnew/src/november22&apos;&#x0A;- Original project: &apos;FirstMavenproject&apos;&#x0A;- Destination element: &apos;Seleniumnew/src/november22&apos;&#x0A;- Original element: &apos;TestNg.Iframe_Amezon_AutoSuggestion2.java&apos;" description="Copy compilation unit" destination="=Seleniumnew/src&lt;november22" element1="/src\/test\/java=/test=/true=/=/optional=/true=/=/maven.pomderived=/true=/&lt;TestNg{Iframe_Amezon_AutoSuggestion2.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1733614015625" units="1" version="1.0"/>
+</session>

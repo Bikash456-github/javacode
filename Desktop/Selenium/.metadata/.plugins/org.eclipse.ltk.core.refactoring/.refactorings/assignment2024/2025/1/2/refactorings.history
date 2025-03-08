@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;selenium2&apos; to &apos;practice&apos;&#x0A;- Original project: &apos;practiceonly&apos;&#x0A;- Original element: &apos;practiceonly/src/selenium2&apos;&#x0A;- Renamed element: &apos;practiceonly/src/practice&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;selenium2&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;selenium2" name="practice" qualified="false" references="true" stamp="1736114856384" textual="false" version="1.0"/>
+</session>
