@@ -1,0 +1,16 @@
+package testcase;
+
+public class testcase {
+
+	private static final String case1 = null;
+
+	public static void main(String[] args) {
+		case1
+		system.out.println(day 1 is monday)
+		case2
+		system.out.println(Day 2 is tuesday)
+		System.out.print.ln
+
+	}
+
+}

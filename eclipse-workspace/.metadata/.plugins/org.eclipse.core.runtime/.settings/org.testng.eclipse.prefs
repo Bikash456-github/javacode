@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+javaprokect.outdir=test-output
+javaprokectxmlTemplateFile=project
+project.outdir=test-output
+projectxmlTemplateFile=testingg
+secondmaven.outdir=test-output
+secondmavenxmlTemplateFile=//*[@id\="rso"]/div[1]/div/div/div/div/div/div/div[1]/a/h3
+thirdmaven.outdir=test-output
