@@ -13,7 +13,7 @@ public class Assignment04 {
 	public static void main(String[] args) {
 staticmethod1();
 staticmethod2();
-
+///Users/bikashdhungana/Desktop/Selenium/assignment2024/src/core_java_assignment/Assignment04.java
 	}
-
+///Users/bikashdhungana/Desktop/Selenium/assignment2024/src/core_java_assignment
 }

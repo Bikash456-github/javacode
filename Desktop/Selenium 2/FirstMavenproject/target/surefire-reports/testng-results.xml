@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-13T09:25:00 PST" name="Suite" finished-at="2024-11-13T09:27:01 PST" duration-ms="120935">
+    <groups>
+    </groups>
+    <test started-at="2024-11-13T09:25:00 PST" name="Test" finished-at="2024-11-13T09:27:01 PST" duration-ms="120935">
+      <class name="asssignment67_crossbrowsertesting.Amazon_AddProduct_To_WishList">
+        <test-method is-config="true" signature="LaunchAmazon(java.lang.String)[pri:0, instance:asssignment67_crossbrowsertesting.Amazon_AddProduct_To_WishList@6631f5ca]" started-at="2024-11-13T09:25:00 PST" name="LaunchAmazon" finished-at="2024-11-13T09:25:16 PST" duration-ms="16278" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchAmazon -->
+        <test-method signature="AddToWishList()[pri:0, instance:asssignment67_crossbrowsertesting.Amazon_AddProduct_To_WishList@6631f5ca]" started-at="2024-11-13T09:25:16 PST" name="AddToWishList" finished-at="2024-11-13T09:26:05 PST" duration-ms="49054" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddToWishList -->
+        <test-method is-config="true" signature="QuitAmazon()[pri:0, instance:asssignment67_crossbrowsertesting.Amazon_AddProduct_To_WishList@6631f5ca]" started-at="2024-11-13T09:26:05 PST" name="QuitAmazon" finished-at="2024-11-13T09:26:06 PST" duration-ms="173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QuitAmazon -->
+      </class> <!-- asssignment67_crossbrowsertesting.Amazon_AddProduct_To_WishList -->
+      <class name="asssignment67_crossbrowsertesting.Amazon_Search_Product">
+        <test-method is-config="true" signature="LaunchAmazon(java.lang.String)[pri:0, instance:asssignment67_crossbrowsertesting.Amazon_Search_Product@4d5b6aac]" started-at="2024-11-13T09:26:06 PST" name="LaunchAmazon" finished-at="2024-11-13T09:26:25 PST" duration-ms="19366" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchAmazon -->
+        <test-method signature="SearchProduct()[pri:0, instance:asssignment67_crossbrowsertesting.Amazon_Search_Product@4d5b6aac]" started-at="2024-11-13T09:26:25 PST" name="SearchProduct" finished-at="2024-11-13T09:27:01 PST" duration-ms="35824" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchProduct -->
+        <test-method is-config="true" signature="QuitAmazon()[pri:0, instance:asssignment67_crossbrowsertesting.Amazon_Search_Product@4d5b6aac]" started-at="2024-11-13T09:27:01 PST" name="QuitAmazon" finished-at="2024-11-13T09:27:01 PST" duration-ms="133" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QuitAmazon -->
+      </class> <!-- asssignment67_crossbrowsertesting.Amazon_Search_Product -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
